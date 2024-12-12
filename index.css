@@ -1,0 +1,51 @@
+html {
+    height: -webkit-fill-avaible;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: -webkit-fill-avaible;
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: blueviolet;
+}
+#superior {
+    display: flex;
+    height: 8vmax;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+    color: white;
+    background-color: aquamarine;
+}
+
+#seccio_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+}
+#seccio_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+}
+#seccio_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+}
+#seccio_4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vmax;
+}
+#menu {
+    height: 8vmax;
+}
