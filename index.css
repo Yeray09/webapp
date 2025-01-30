@@ -120,9 +120,6 @@ position: absolute;
 width: 0;
 opacity: 0;
 }
-#canvas, #desa {
-display: none;
-}
 #div_gran {
 display: none;
 flex: 1;
